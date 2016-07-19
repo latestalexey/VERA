@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f30df9ff"
+    name="GIS-analyse"
+    documentation="Functionaliteit voor het genereren en beheren van analyses met behulp van geo-gerefereerde gegevens (wat bijvoorbeeld resulteert in een dekkingsplan)."/>

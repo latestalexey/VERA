@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b3d6f53b"
+    name="Business proces management"
+    documentation="Generieke functionaliteit om zowel binnen 1 bedrijfsfunctie 1 of meerdere werkprocessen maar ook bedrijfsfunctie overstijgend 1 of meerdere bedrijfsprocessen eenduidig te ondersteunen. Deze functionaliteit richt zich zowel op processen die zaakgericht werken (de status van de zaak staat centraal) als processen die workflow gericht werken (de stappen van het proces staan centraal). Het is dus heel goed mogelijk dat applicatieve functionaliteiten die nu zijn genoemd bij een specifieke bedrijfsfunctie kunnen worden vervangen door deze functionaliteit onder te brengen in de generieke business proces management functionaliteit."/>

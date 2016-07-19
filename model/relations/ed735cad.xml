@@ -1,0 +1,5 @@
+<archimate:UsedByRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ed735cad"
+    source="archimate:Node ../technology/383c3e6e.xml#383c3e6e"
+    target="archimate:SystemSoftware ../technology/85c185ac.xml#85c185ac"/>

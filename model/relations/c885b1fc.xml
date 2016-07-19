@@ -1,0 +1,5 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c885b1fc"
+    source="archimate:Meaning ../business/4606c5ed/1b58bc50.xml#1b58bc50"
+    target="archimate:BusinessObject ../business/4606c5ed/99133df2.xml#99133df2"/>

@@ -1,0 +1,5 @@
+<archimate:TriggeringRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="77fef3fc"
+    source="archimate:BusinessEvent ../business/f3f6aee5/a07567c2.xml#a07567c2"
+    target="archimate:BusinessProcess ../business/d31f005b/09ba0a27/e9818017/fafb92ba.xml#fafb92ba"/>
